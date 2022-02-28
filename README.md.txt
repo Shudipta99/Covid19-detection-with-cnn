@@ -1,1 +1,0 @@
-Mainly Based on Convolutional Neural Network Model for Image Classification. This research proposes a deep CNN architecture for the diagnosis of COVID-19 based on the classification of chest X-ray images. The dataset we collect from Kaggle was preprocessed using several techniques to produce an effective training dataset for optimal performance.
